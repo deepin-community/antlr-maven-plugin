@@ -1,3 +1,12 @@
+antlr-maven-plugin (2.2-5) unstable; urgency=medium
+
+  * Fixed the build failure with doxia 1.11
+  * Use salsa.debian.org Vcs-* URLs
+  * Standards-Version updated to 4.6.2
+  * Switch to debhelper level 13
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Mon, 09 Jan 2023 15:40:50 +0100
+
 antlr-maven-plugin (2.2-4) unstable; urgency=medium
 
   * Depend on libwagon-provider-api-java instead of libwagon-java
